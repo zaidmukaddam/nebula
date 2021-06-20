@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733035054125",
+    "project_id": "nebula-music",
+    "storage_bucket": "nebula-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733035054125:android:6447af2bcfffb24238e4a4",
+        "android_client_info": {
+          "package_name": "com.zaid.nebula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733035054125-sebupk664muliiealfkqmm6crkj6dpvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaid.nebula",
+            "certificate_hash": "2ed48b2050739308bb2f512345fbb7a9e81e13b4"
+          }
+        },
+        {
+          "client_id": "733035054125-ddh7u01e302cio3jmnojs2s1if15v09v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSCSlHSbPgzbLnrZm7AaM66zg5yxJvXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733035054125-ddh7u01e302cio3jmnojs2s1if15v09v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
